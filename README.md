@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KutayKiracc
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML 
+- 👀 I’m interested in Front-end and PYTHON
+- 🌱 I’m currently learning HTML and PYTHON.
 
 
 <!---
